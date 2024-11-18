@@ -30,6 +30,6 @@ header {
   background-position: center center;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-size: cover;
+  background-size: max-width: 100%; height: auto;
   border-bottom: solid 1px #275da1;
 }
