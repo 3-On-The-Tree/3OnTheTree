@@ -23,17 +23,25 @@ a:hover {
 }
 
 header {
+   padding-top: 40px;
+  padding-bottom: 40px;
+  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
+  background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
+  border-bottom: solid 1px #275da1;
+
+  
+  /*
   padding-bottom: 300px;
   /* background: #000000 url(../images/ThreeOnTheTreeHeader.png) 0 0 no-repeat;  */
   
  /* Background image is centered vertically and horizontally at all times */
-background-position: center center;
+//background-position: center center;
 
 /* Background image doesn't tile */
-background-repeat: no-repeat;
+//background-repeat: no-repeat;
 
 /* This is what makes the background image rescale based
 on the container's size */
-background-size: 100% 100%;
-
+//background-size: 100% 100%;
+*/
 }
