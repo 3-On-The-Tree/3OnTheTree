@@ -14,7 +14,8 @@
   display: flex;
   align-items: flex-start;
   flex-direction: column;
-  background-size: cover;
+  background-repeat: repeat-x;
+  /* background-size: cover; */
   justify-content: center;
   background-image: url("public/header-bg-1500w.jpg");
 }
