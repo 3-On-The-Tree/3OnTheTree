@@ -48,7 +48,7 @@
 .home-fragment {
   display: contents;
 }
-.home-text3 {
+.home-text4 {
   display: inline-block;
 }
 .contact1root-class-name {
@@ -117,7 +117,17 @@
   display: flex;
 }
 .home-text2 {
+  color: #1d37c1;
   align-self: center;
+  font-style: normal;
+  font-weight: 900;
+  padding-top: var(--dl-space-space-unit);
+  padding-bottom: var(--dl-space-space-unit);
+}
+.home-text3 {
+  color: #d47d20;
+  align-self: center;
+  padding-bottom: var(--dl-space-space-halfunit);
 }
 .home-slider {
   flex: 1;
@@ -169,6 +179,6 @@
 .home-fragment {
   display: contents;
 }
-.home-text3 {
+.home-text4 {
   display: inline-block;
 }
